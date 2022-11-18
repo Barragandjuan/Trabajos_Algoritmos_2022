@@ -21,7 +21,7 @@ def total(turno):
         if carta in range(1,11):
             total= total+carta
         elif carta in cara:
-            total= total + 1
+            total= total + 10
         else:
             if total > 11:
                 total= total+1
