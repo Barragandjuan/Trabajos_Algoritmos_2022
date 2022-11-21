@@ -12,4 +12,4 @@
 - Etc :)
 ##### Esperamos sea de tu agrado nuestro proyecto y lo disfrutes! 😉✌
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.soydemadrid.com%2Festilo-vida-reportaje%2Fquieres-jugar-al-blackjack-sigue-estos-interesantes-consejos-63514.aspx&psig=AOvVaw1m_btaWftHMD8iEsbnFj-w&ust=1669132081279000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOC33dnPv_sCFQAAAAAdAAAAABAD)
+![image](https://www.casinobarcelona.es/blog/wp-content/uploads/2021/07/shutterstock_389218561-1.jpg)
